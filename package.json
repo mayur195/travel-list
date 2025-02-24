@@ -1,6 +1,7 @@
 {
   "name": "travel-list",
   "version": "0.1.0",
+  "homepage": "https://mayur195.github.io/travel-list",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
